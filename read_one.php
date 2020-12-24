@@ -44,7 +44,7 @@
         
         echo "<tr>";
             echo "<td>Price</td>";
-            echo "<td>{$product->price}</td>";
+            echo "<td> \$ {$product->price}</td>";
         echo "</tr>";
         
         echo "<tr>";

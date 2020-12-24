@@ -37,7 +37,7 @@
 
                 echo "<tr>";
                     echo "<td>{$name}</td>";
-                    echo "<td>{$price}</td>";
+                    echo "<td> \$ {$price}</td>";
                     echo "<td>{$description}</td>";
                     echo "<td>";
                         $category->id = $category_id;
